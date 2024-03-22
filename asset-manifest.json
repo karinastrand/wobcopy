@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/wobcopy/static/css/main.4883411d.css",
+    "main.js": "/wobcopy/static/js/main.8bd09d91.js",
+    "static/js/453.4d6f3d75.chunk.js": "/wobcopy/static/js/453.4d6f3d75.chunk.js",
+    "static/media/Logo.png": "/wobcopy/static/media/Logo.4d49f1731f0c5d0e0353.png",
+    "static/media/100herbstogrow.png": "/wobcopy/static/media/100herbstogrow.e086b1ec0a53055fb67e.png",
+    "static/media/pocketmadeira.png": "/wobcopy/static/media/pocketmadeira.7b4e260797633c31e64a.png",
+    "static/media/imnotsleepy.png": "/wobcopy/static/media/imnotsleepy.ee833417454ba37b8304.png",
+    "static/media/japantravelguide.png": "/wobcopy/static/media/japantravelguide.1051aab52251feafb59f.png",
+    "static/media/nepaltravelguide.png": "/wobcopy/static/media/nepaltravelguide.8ffb4d6cbff0a68548e5.png",
+    "static/media/whatmakesagarden.png": "/wobcopy/static/media/whatmakesagarden.6fec729e3463d0c56d7a.png",
+    "static/media/thecleancoder.png": "/wobcopy/static/media/thecleancoder.6b5d46ab0fc234ca57c0.png",
+    "static/media/100gomistakesandhowtoavoidthem.png": "/wobcopy/static/media/100gomistakesandhowtoavoidthem.9ac9d868e49d47664891.png",
+    "static/media/learningvue.png": "/wobcopy/static/media/learningvue.eacf2f5f6b6f9333cb26.png",
+    "static/media/home.jpg": "/wobcopy/static/media/home.0835c062e82beee1047e.jpg",
+    "static/media/beautyandthebeast.jfif": "/wobcopy/static/media/beautyandthebeast.ef95e09c7b7fbe2f225f.jfif",
+    "static/media/pinocchio.jfif": "/wobcopy/static/media/pinocchio.8d775d547df4cd0858d3.jfif",
+    "static/media/grymms.jfif": "/wobcopy/static/media/grymms.99e2c801b3dfdbfcb395.jfif",
+    "static/media/alice.jfif": "/wobcopy/static/media/alice.3b32f0e5863b84c93218.jfif",
+    "static/media/huckleberryfin.jfif": "/wobcopy/static/media/huckleberryfin.748fe0bfe27b7dbb41e9.jfif",
+    "static/media/olivertwist.jfif": "/wobcopy/static/media/olivertwist.071120ea28a25742e59e.jfif",
+    "index.html": "/wobcopy/index.html",
+    "main.4883411d.css.map": "/wobcopy/static/css/main.4883411d.css.map",
+    "main.8bd09d91.js.map": "/wobcopy/static/js/main.8bd09d91.js.map",
+    "453.4d6f3d75.chunk.js.map": "/wobcopy/static/js/453.4d6f3d75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4883411d.css",
+    "static/js/main.8bd09d91.js"
+  ]
+}
